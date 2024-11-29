@@ -1,4 +1,4 @@
-# **Kaggle Handwritten Digit Recognition**
+# ** Handwritten Digit Recognition**
 
 ![](https://img.shields.io/badge/kaggle-competitions-blue)
 ![](https://img.shields.io/badge/Tensorflow-CNN-orange)
